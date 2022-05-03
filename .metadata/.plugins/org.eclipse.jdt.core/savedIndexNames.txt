@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\alunos\Documents\GitHub\AULAS_JAVA\.metadata\.plugins\org.eclipse.jdt.core
+2361296326.index
+2827302287.index
